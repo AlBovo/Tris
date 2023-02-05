@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tris</string>
+    <string name="start"> </string>
+    <string name="O">O</string>
+    <string name="X">X</string>
+    <string name="points">Points: 0</string>
+</resources>
